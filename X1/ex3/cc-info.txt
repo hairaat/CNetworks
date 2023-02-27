@@ -1,0 +1,11 @@
+CPU Info:
+  cpu 0, numa_node 0, package 0, core 0, busy 5.225%, thread_count 48, irqs 0
+  cpu 1, numa_node 0, package 0, core 0, busy 5.225%, thread_count 48, irqs 0
+  cpu 2, numa_node 0, package 0, core 1, busy 5.225%, thread_count 48, irqs 0
+  cpu 3, numa_node 0, package 0, core 1, busy 5.225%, thread_count 48, irqs 0
+NUMA Node 0:  0, 1, 2, 3
+CPU Core Info:
+  Core (0, 0):  0, 1    score -2.14748e+06%
+  Core (0, 1):  2, 3    score -2.14748e+06%
+partition_cpus:  0
+other_cpus:  2, 3
